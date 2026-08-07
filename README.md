@@ -10,7 +10,7 @@ A curated list of top AI directories and submission platforms, including Domain 
 
 | Directory / Platform | Domain Rating (DR) | Founder / Team | Website URL | Submission Link |
 | :--- | :---: | :--- | :--- | :--- |
-| **AI Website Directory** | **13** | **Jabed Bhuiyan** | [aiwebsitedirectory.com](https://aiwebsitedirectory.com/) | [Submit Tool](https://aiwebsitedirectory.com/) |
+| **AI Website Directory** | **13** | **Kites.Dev LLC** | [aiwebsitedirectory.com](https://aiwebsitedirectory.com/) | [Submit Tool](https://aiwebsitedirectory.com/) |
 | **AIxploria** | **56** | AIxploria Team | [aixploria.com](https://www.aixploria.com/) | [Submit Tool](https://www.aixploria.com/submit-ai/) |
 | **All Things AI** | **47** | All Things AI Team | [allthingsai.com](https://allthingsai.com/) | [Submit Tool](https://allthingsai.com/submit) |
 | **Easy With AI** | **59** | Easy With AI Team | [easywithai.com](https://easywithai.com/) | [Submit Tool](https://easywithai.com/submit-ai-tool/) |
