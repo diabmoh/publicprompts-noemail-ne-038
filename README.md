@@ -27,6 +27,7 @@ A curated list of top AI directories, startup discovery platforms, and submissio
 | **Insidr AI** | **48** | Insidr Team | [insidr.ai](https://www.insidr.ai/) | [Submit Tool](https://www.insidr.ai/submit-ai-tool/) |
 | **Launching Next** | **52** | Launching Next Team | [launchingnext.com](https://www.launchingnext.com/) | [Submit Startup](https://www.launchingnext.com/submit/) |
 | **Product Hunt** | **91** | Ryan Hoover | [producthunt.com](https://www.producthunt.com/) | [Post Product](https://www.producthunt.com/posts/new) |
+| **Public Prompts** | Not measured | Public Prompts team | [publicprompts.art](https://www.publicprompts.art/) | [Submit Tool](https://www.publicprompts.art/submit) |
 | **SaaSHub** | **80** | Stan Bright | [saashub.com](https://www.saashub.com/) | [Submit Software](https://www.saashub.com/submit) |
 | **StartupBase** | **70** | StartupBase Team | [startupbase.io](https://startupbase.io/) | [Submit Startup](https://startupbase.io/) |
 | **StartupHub.ai** | **61** | StartupHub Team | [startuphub.ai](https://startuphub.ai/) | [Submit Startup](https://startuphub.ai/) |
